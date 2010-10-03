@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-19 18:04+0200\n"
+"POT-Creation-Date: 2010-10-03 13:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,8 +185,8 @@ msgid "Monsters"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:501 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:528 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:698
-msgid "<225,225,25>Gold: $gold|"
+#: ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:501 ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:671 ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:816 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:528 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:698 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:843
+msgid "<span foreground='yellow'>Gold: $gold|</span>"
 msgstr ""
 
 #. [option]: speaker=narrator
@@ -261,11 +261,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:670 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:697
 msgid "Spawning Point"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:671 ./Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:816 ./Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:843
-msgid "<span foreground='yellow'>Gold: $gold|</span>"
 msgstr ""
 
 #. [option]: speaker=narrator
