@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:09+0200\n"
-"PO-Revision-Date: 2010-04-19 18:04+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-03-01 20:29+0100\n"
+"Last-Translator: VladimírSlávik <slavik.vladimir@nospam@seznam.cz>\n"
 "Language-Team: none\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 #. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:5
 msgid "2p - DW Creepfest"
-msgstr ""
+msgstr "2p - KV Potvorplná"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:7
@@ -23,6 +23,8 @@ msgid ""
 "Medium 1v1 map set in a decaying land. Recruit optional creeps to aid your "
 "cause!"
 msgstr ""
+"Středně velká mapa zničené země pro bitvu 1 vs 1. Pro dosažení cíle lze "
+"verbovat rozličné potvůrky!"
 
 #. [side]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:19
@@ -32,7 +34,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:46
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:19
 msgid "teamname^West"
-msgstr ""
+msgstr "Západní"
 
 #. [side]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:28
@@ -42,55 +44,55 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:37
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:28
 msgid "teamname^East"
-msgstr ""
+msgstr "Východní"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:50
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:68
 msgid "Giant Mudcrawler"
-msgstr ""
+msgstr "Obří blátožrout"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:54
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:72
 msgid "Wolf"
-msgstr ""
+msgstr "Vlk"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:58
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:76
 msgid "Giant Scorpion"
-msgstr ""
+msgstr "Obří škorpion"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:62
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:80
 msgid "Ogre"
-msgstr ""
+msgstr "Obr"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:66
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:84
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Trollí šaman"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:70
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:88
 msgid "Chocobone"
-msgstr ""
+msgstr "Kostipštros"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:74
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:92
 msgid "Giant Spider"
-msgstr ""
+msgstr "Obří pavouk"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:78
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:96
 msgid "Yeti"
-msgstr ""
+msgstr "Yetti"
 
 #. [event]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:100
@@ -105,6 +107,8 @@ msgid ""
 "Monster Shop\n"
 " Leaders only!"
 msgstr ""
+"Příšerkoloniál\n"
+" Pouze pro vůdce!"
 
 #. [event]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:107
@@ -120,17 +124,17 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:128
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:129
 msgid "Bought monsters start here!"
-msgstr ""
+msgstr "Zakoupená monstra vylézají tady!"
 
 #. [objective]: condition=win
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:115
 msgid "Defeat enemy player's leader"
-msgstr ""
+msgstr "Poraz nepřátelského vůdce"
 
 #. [objective]: condition=lose
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:119
 msgid "Death of your leader"
-msgstr ""
+msgstr "Tvůj vůdce zemře"
 
 #. [objectives]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:128
@@ -144,6 +148,13 @@ msgid ""
 "Step on runes to open/close walls.</b>\n"
 " "
 msgstr ""
+" \n"
+"<b>Vůdci mohou v obchodech nakupovat volitelná monstra.\n"
+" \n"
+"Za poloviční cenu lze nakoupit neutrální monstra.\n"
+" \n"
+"Stoupání na runy otvírá/zavírá stěny.</b>\n"
+" "
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:153
@@ -173,18 +184,42 @@ msgid ""
 " \n"
 "Entering a shop or stepping on a rune won't end the movement of a unit!\n"
 msgstr ""
+"KOBKOVÁ VÁLKA POTVORPLNÁ\n"
+"\t\n"
+"Autor : Kvinkunx\n"
+"\t\n"
+"Hlavní testování a nápady : Rigor\n"
+"(díky, babochlape! :) ) (překladatelský vtip)\n"
+"\t\n"
+"<b><big><span foreground='orange'>TOTO JE STANDARDNÍ BITVA, NEJDŘÍVE SI "
+"NAVERBUJ KLASICKOU ARMÁDU!</span></big></b>\n"
+"\t\n"
+"Pokud si chceš do severního nebo jižního podzemí naverbovat monstra, navštiv "
+"se svým <b>VŮDCEM</b> obchod. Čím dále od svého domovského hradu budeš chtít "
+"aby se objevovala, tím víc za ně musíš zaplatit.\n"
+"Můžeš zaplatit plnou cenu a budeš je ovládat nebo zaplatíš jen část a budou "
+"se oživovat jako neutrální.\n"
+"\t\t\n"
+"<b>JAKÁKOLIV JEDNOTKA</b>, která šlápne na magickou runu, otevře nebo zavře "
+"stěnu. Jedině tak mohou nakoupená monstra opustit podzemí a připojit se do "
+"bitvy!\n"
+"\t\n"
+"Měj na paměti, že když jednotka stojí na hexu stěny a někdo stěnu zavře, "
+"jednotka zemře.\n"
+"\n"
+"Návštěva obchodu nebo šlápnutí na runu neukončuje pohyb jednotky!\n"
 
 #. [then]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:295
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:312
 msgid "Open Sesame!"
-msgstr ""
+msgstr "Sezame, otevři se!"
 
 #. [else]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:308
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:325
 msgid "Sesame, close!"
-msgstr ""
+msgstr "Sezame, zavři se!"
 
 #. [set_variable]
 #. [event]
@@ -193,7 +228,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:442
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:747
 msgid "TOP CENTRAL"
-msgstr ""
+msgstr "HORNÍ PROSTŘEDNÍ"
 
 #. [command]
 #. [event]
@@ -202,13 +237,13 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:444
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:868
 msgid "YOU"
-msgstr ""
+msgstr "TVÁ VŮLE"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:463
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:490
 msgid "Marisha's Monster Emporium"
-msgstr ""
+msgstr "Bestiální tržnice MarišaLand"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:473
@@ -225,24 +260,34 @@ msgid ""
 "The controller of the monster will be:\n"
 "<span foreground='cyan'>$owner_name"
 msgstr ""
+"<span foreground='yellow'>Zlatých: $gold  Celková cena: $total_price</span>\n"
+" \n"
+"Nakupuješ toto monstrum:\n"
+"<span foreground='red'>$chosen_name</span>\n"
+" \n"
+"Objeví se u těchto padacích dvířek:\n"
+"<span foreground='magenta'>$trapdoor_name</span>\n"
+" \n"
+"Toto monstrum bude ovládat:\n"
+"<span foreground='cyan'>$owner_name"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:477
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:504
 msgid "Don't buy anything."
-msgstr ""
+msgstr "Nekupuji nic."
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:484
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:511
 msgid "Choose monster type!"
-msgstr ""
+msgstr "Vyber typ monstra!"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:500
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:527
 msgid "Monsters"
-msgstr ""
+msgstr "Monstra"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:501
@@ -252,7 +297,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:698
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:843
 msgid "<span foreground='yellow'>Gold: $gold|</span>"
-msgstr ""
+msgstr "<span foreground='yellow'>Zlatých: $gold|</span>"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:506
@@ -263,6 +308,10 @@ msgid ""
 "Hitpoints:36  Moves:4\n"
 "7 - 2 melee (impact)  5 - 3 ranged (impact)"
 msgstr ""
+"<span foreground='red'>$name_mud|</span> : <span foreground='yellow'>12 zl</"
+"span>\n"
+"Životů:36  Pohyby:4\n"
+"7 - 2 zblízka (úder)  5 - 3 na dálku (úder)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:525
@@ -273,6 +322,10 @@ msgid ""
 "Hitpoints:32  Moves:8\n"
 "5 - 3 melee (blade)"
 msgstr ""
+"<span foreground='red'>$name_wolf|</span> : <span foreground='yellow'>13 zl</"
+"span>\n"
+"Životů:32  Pohyby:8\n"
+"5 - 3 zblízka (čepel)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:541
@@ -283,6 +336,10 @@ msgid ""
 "Hitpoints:40  Moves:8\n"
 "9 - 1 melee (pierce) (poison)  4 - 4 melee (impact)"
 msgstr ""
+"<span foreground='red'>$name_scorpy|</span> : <span foreground='yellow'>17 "
+"zl</span>\n"
+"Životů:40  Pohyby:8\n"
+"9 - 1 zblízka (bodnutí) (otrava)  4 - 4 zblízka (úder)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:560
@@ -293,6 +350,10 @@ msgid ""
 "Hitpoints:68  Moves:5\n"
 "10 - 3 melee (blade)"
 msgstr ""
+"<span foreground='red'>$name_ogre|</span> : <span foreground='yellow'>33 zl</"
+"span>\n"
+"Životů:68  Pohyby:5\n"
+"10 - 3 zblízka (čepel)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:576
@@ -303,6 +364,10 @@ msgid ""
 "Hitpoints:50  Moves:5  regenerates\n"
 "7 - 2 melee (impact)  7 - 3 ranged (fire) (magical)"
 msgstr ""
+"<span foreground='red'>$name_shaman|</span> : <span foreground='yellow'>32 "
+"zl</span>\n"
+"Životů:50  Pohyby:5  regenerace\n"
+"7 - 2 zblízka (úder)  7 - 3 na dálku (oheň) (magický)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:595
@@ -313,6 +378,10 @@ msgid ""
 "Hitpoints:45  Moves:9  submerge\n"
 "9 - 2 melee (pierce) (charge)"
 msgstr ""
+"<span foreground='red'>$name_choco|</span> : <span foreground='yellow'>29 "
+"zl</span>\n"
+"Životů:45  Pohyby:9  ponoření\n"
+"9 - 2 zblízka (bodnutí) (výpad)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:611
@@ -323,6 +392,10 @@ msgid ""
 "Hitpoints:54  Moves:6\n"
 "18 - 2 melee (blade) (poison)  8 - 3 ranged (impact) (slows)"
 msgstr ""
+"<span foreground='red'>$name_spidey|</span> : <span foreground='yellow'>60 "
+"zl</span>\n"
+"Životů:54  Pohyby:6\n"
+"18 - 2 zblízka (čepel) (otrava)  8 - 3 na dálku (úder) (zpomalení)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:630
@@ -333,18 +406,22 @@ msgid ""
 "Hitpoints:142  Moves:5\n"
 "32 - 2 melee (impact)"
 msgstr ""
+"<span foreground='red'>$name_yeti|</span> : <span foreground='yellow'>100 "
+"zl</span>\n"
+"Životů:142  Pohyby:5\n"
+"32 - 2 zblízka (úder)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:655
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:682
 msgid "Where should the monster appear?"
-msgstr ""
+msgstr "Kde se má monstrum objevit?"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:670
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:697
 msgid "Spawning Point"
-msgstr ""
+msgstr "Místo zrodu"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:675
@@ -353,12 +430,14 @@ msgid ""
 "<span foreground='magenta'>Top left trapdoor</span>\n"
 "Price will change to $left_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Horní levá padací dvířkar</span>\n"
+"Výsledná cena monstra bude $left_trapdoors|% ceny původní."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:682
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:709
 msgid "TOP LEFT"
-msgstr ""
+msgstr "HORNÍ LEVÁ"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:694
@@ -367,12 +446,14 @@ msgid ""
 "<span foreground='magenta'>Bottom left trapdoor</span>\n"
 "Price will change to $left_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Spodní levá padací dvířka</span>\n"
+"Výsledná cena monstra bude $left_trapdoors|% ceny původní."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:701
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:728
 msgid "BOTTOM LEFT"
-msgstr ""
+msgstr "SPODNÍ LEVÁ"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:713
@@ -381,6 +462,8 @@ msgid ""
 "<span foreground='magenta'>Top central trapdoor</span>\n"
 "Price will change to $central_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Horní prostřední padací dvířka</span>\n"
+"Výsledná cena monstra bude $central_trapdoors|% ceny původní."
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:732
@@ -389,12 +472,14 @@ msgid ""
 "<span foreground='magenta'>Bottom central trapdoor</span>\n"
 "Price will change to $central_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Spodní prostřední padací dvířka</span>\n"
+"Výsledná cena monstra bude $central_trapdoors|% ceny původní."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:739
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:766
 msgid "BOTTOM CENTRAL"
-msgstr ""
+msgstr "SPODNÍ PROSTŘEDNÍ"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:751
@@ -403,12 +488,14 @@ msgid ""
 "<span foreground='magenta'>Top right trapdoor</span>\n"
 "Price will change to $right_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Horní pravá padací dvířka</span>\n"
+"Výsledná cena monstra bude $right_trapdoors|% ceny původní."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:758
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:785
 msgid "TOP RIGHT"
-msgstr ""
+msgstr "HORNÍ PRAVÁ"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:770
@@ -417,24 +504,26 @@ msgid ""
 "<span foreground='magenta'>Bottom right trapdoor</span>\n"
 "Price will change to $right_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Spodní pravá padací dvířka</span>\n"
+"Výsledná cena monstra bude $right_trapdoors|% ceny původní."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:777
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:804
 msgid "BOTTOM RIGHT"
-msgstr ""
+msgstr "SPODNÍ PRAVÁ"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:799
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:826
 msgid "Who will control this monster?"
-msgstr ""
+msgstr "Kdo bude pánem tohoto monstra?"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:815
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:842
 msgid "Ownership"
-msgstr ""
+msgstr "Vlastnictví"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:820
@@ -444,12 +533,15 @@ msgid ""
 "<span foreground='cyan'>It may attack anyone at will though, even you!!</"
 "span>"
 msgstr ""
+"<span foreground='yellow'>Za polovic!</span>\n"
+"<span foreground='cyan'>Monstrum bude útočit dle své vůle, třeba i na tebe!!"
+"</span>"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:825
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:852
 msgid "AI! It may attack anyone, even you!!"
-msgstr ""
+msgstr "AI! Může útočit na kohokoli včetně tebe!!"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:838
@@ -458,40 +550,42 @@ msgid ""
 "<span foreground='yellow'>Full price!</span>\n"
 "<span foreground='cyan'>Full control of the monster you buy.</span>"
 msgstr ""
+"<span foreground='yellow'>Plná cena!</span>\n"
+"<span foreground='cyan'>Plná kontrola nad kupovaným monstrem.</span>"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:863
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:890
 msgid "Buy this monster!"
-msgstr ""
+msgstr "Kupuji ho!"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:886
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:913
 msgid "Marisha"
-msgstr ""
+msgstr "Mariša"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:888
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:915
 msgid ""
 "<span foreground='orange'>You don't have the required money! Begone!!</span>"
-msgstr ""
+msgstr "<span foreground='orange'>Nemáš dostatek peněz! Vypadni!!</span>"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:5
 msgid "2p - DW No Creeps"
-msgstr ""
+msgstr "2p - KV Potvorprostá"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:7
 msgid "Medium 1v1 map set in a decaying land."
-msgstr ""
+msgstr "Středně velká mapa zničené země pro bitvu 1 vs 1."
 
 #. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:5
 msgid "4p - DW Creepfest"
-msgstr ""
+msgstr "4p - KV Potvorplná"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:7
@@ -499,23 +593,25 @@ msgid ""
 "Medium 2v2 map set in a decaying land. Recruit optional creeps to aid your "
 "cause!"
 msgstr ""
+"Středně velká mapa zničené země pro bitvu 2 vs 2. Pro dosažení cíle lze "
+"verbovat rozličné potvůrky!"
 
 #. [objective]: condition=win
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:132
 msgid "Defeat enemy players' leaders"
-msgstr ""
+msgstr "Poraz nepřátelské vůdce"
 
 #. [objective]: condition=lose
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:136
 msgid "Death of your leaders"
-msgstr ""
+msgstr "Vůdci spřátelených vojsk zemřou"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:5
 msgid "4p - DW No Creeps"
-msgstr ""
+msgstr "4p - KV Potvorprostá"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:7
 msgid "Medium 2v2 map set in a decaying land."
-msgstr ""
+msgstr "Středně velká mapa zničené země pro bitvu 2 vs 2."
