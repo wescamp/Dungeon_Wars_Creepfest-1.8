@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:09+0200\n"
-"PO-Revision-Date: 2010-04-19 18:04+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-04-12 14:31+0100\n"
+"Last-Translator: Piere <piere-d-siorac@freemail.hu>\n"
 "Language-Team: none\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 #. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:5
 msgid "2p - DW Creepfest"
-msgstr ""
+msgstr "2j - BH Szörnyek fesztiválja"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:7
@@ -23,6 +23,8 @@ msgid ""
 "Medium 1v1 map set in a decaying land. Recruit optional creeps to aid your "
 "cause!"
 msgstr ""
+"Közepes 1v1 pálya  egy pusztuló földön. Toborozz szörnyeket, hogy segítsenek "
+"a csatában!"
 
 #. [side]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:19
@@ -32,7 +34,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:46
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:19
 msgid "teamname^West"
-msgstr ""
+msgstr "Nyugat"
 
 #. [side]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:28
@@ -42,55 +44,55 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:37
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:28
 msgid "teamname^East"
-msgstr ""
+msgstr "Kelet"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:50
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:68
 msgid "Giant Mudcrawler"
-msgstr ""
+msgstr "Óriás sártipró"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:54
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:72
 msgid "Wolf"
-msgstr ""
+msgstr "Farkas"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:58
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:76
 msgid "Giant Scorpion"
-msgstr ""
+msgstr "Óriás skorpió"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:62
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:80
 msgid "Ogre"
-msgstr ""
+msgstr "Ogre"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:66
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:84
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Troll Sámán"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:70
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:88
 msgid "Chocobone"
-msgstr ""
+msgstr "Csontlovas"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:74
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:92
 msgid "Giant Spider"
-msgstr ""
+msgstr "Óriáspók"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:78
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:96
 msgid "Yeti"
-msgstr ""
+msgstr "Jeti"
 
 #. [event]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:100
@@ -105,6 +107,8 @@ msgid ""
 "Monster Shop\n"
 " Leaders only!"
 msgstr ""
+"Szörny bolt\n"
+" Vezéreknek!"
 
 #. [event]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:107
@@ -120,17 +124,17 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:128
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:129
 msgid "Bought monsters start here!"
-msgstr ""
+msgstr "A vásárolt szörnyek kezdő helye."
 
 #. [objective]: condition=win
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:115
 msgid "Defeat enemy player's leader"
-msgstr ""
+msgstr "Legyőzöd az ellenfél vezérét"
 
 #. [objective]: condition=lose
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:119
 msgid "Death of your leader"
-msgstr ""
+msgstr "Vezéred elesik"
 
 #. [objectives]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:128
@@ -144,6 +148,13 @@ msgid ""
 "Step on runes to open/close walls.</b>\n"
 " "
 msgstr ""
+" \n"
+"<b>Lépj be a boltba a vezéreddel, hogy szörnyeket vegyél!\n"
+" \n"
+"A semleges szörnyek feleannyiba kerülnek.\n"
+" \n"
+"Lépj a rúnákra, hogy kinyisd, illetve bezárd a falakat!</b>\n"
+" "
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:153
@@ -173,18 +184,41 @@ msgid ""
 " \n"
 "Entering a shop or stepping on a rune won't end the movement of a unit!\n"
 msgstr ""
+"Börtön Háborúk Szörny fesztiválja\n"
+"\t\n"
+"Készítette : Kvinkunx\n"
+"\t\n"
+"Tesztelés és javaslatok : Rigor\n"
+"( köszi, haver! :) )\n"
+"\t\n"
+"<b><big><span foreground='orange'>EZ EGY RENDES CSATA, TOBOROZZ CSAPATOKAT "
+"ELŐSZÖR!</span></big></b>\n"
+"\t\n"
+"Lépj a <b>VEZÉREDDEL</b> a boltra, hogy szörnyeket toborozz az északi és "
+"déli börtönbe. Minnél messebb akarod letenni őket a kastélyodtól, annál "
+"többet kell fizetned értük.\n"
+"Teljes árat kell fizetned, ha irányítani akarod a szörnyet, de ha csak egy "
+"semleges szörnyet akarsz, akkor az kevesebbe kerül.\n"
+"\t\t\n"
+"Lépj a rúnákra <b>BÁRMELYIK EGYSÉGGEL</b>, hogy kinyisd, vagy becsukd a "
+"falakat! Ezután hagyhatja el a szörny a börtönt és csatlakozhat a csatához.\n"
+"\t\n"
+"Légy óvatos, ha egy egység a fal helyén áll, és valaki azt becsukja, akkor "
+"az egység meghal.\n"
+" \n"
+"A boltra vagy a rúnákra lépett egység nem veszíti el a további lépéseit!\n"
 
 #. [then]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:295
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:312
 msgid "Open Sesame!"
-msgstr ""
+msgstr "Szezám, tárulj!"
 
 #. [else]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:308
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:325
 msgid "Sesame, close!"
-msgstr ""
+msgstr "Szezám, zárulj!"
 
 #. [set_variable]
 #. [event]
@@ -193,7 +227,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:442
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:747
 msgid "TOP CENTRAL"
-msgstr ""
+msgstr "ÉSZAK"
 
 #. [command]
 #. [event]
@@ -202,13 +236,13 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:444
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:868
 msgid "YOU"
-msgstr ""
+msgstr "TE"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:463
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:490
 msgid "Marisha's Monster Emporium"
-msgstr ""
+msgstr "Marisha Szörny Áruháza"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:473
@@ -225,24 +259,34 @@ msgid ""
 "The controller of the monster will be:\n"
 "<span foreground='cyan'>$owner_name"
 msgstr ""
+"<span foreground='yellow'>Arany: $gold  Ár: $total_price</span>\n"
+" \n"
+"Ezt a szörnyet veszed meg:\n"
+"<span foreground='red'>$chosen_name</span>\n"
+" \n"
+"Ennél a csapóajtónál jelenik meg:\n"
+"<span foreground='magenta'>$trapdoor_name</span>\n"
+" \n"
+"A szörny irányítója:\n"
+"<span foreground='cyan'>$owner_name"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:477
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:504
 msgid "Don't buy anything."
-msgstr ""
+msgstr "Nem veszek semmit."
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:484
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:511
 msgid "Choose monster type!"
-msgstr ""
+msgstr "Válassz szörnyet!"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:500
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:527
 msgid "Monsters"
-msgstr ""
+msgstr "Szörnyek"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:501
@@ -252,7 +296,7 @@ msgstr ""
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:698
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:843
 msgid "<span foreground='yellow'>Gold: $gold|</span>"
-msgstr ""
+msgstr "<span foreground='yellow'>Arany: $gold|</span>"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:506
@@ -263,6 +307,10 @@ msgid ""
 "Hitpoints:36  Moves:4\n"
 "7 - 2 melee (impact)  5 - 3 ranged (impact)"
 msgstr ""
+"<span foreground='red'>$name_mud|</span> : <span foreground='yellow'>12gp</"
+"span>\n"
+"Ép:36  Lépés:4\n"
+"7 - 2 közelharc (ütés)  5 - 3 távolsági harc (ütés)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:525
@@ -273,6 +321,10 @@ msgid ""
 "Hitpoints:32  Moves:8\n"
 "5 - 3 melee (blade)"
 msgstr ""
+"<span foreground='red'>$name_wolf|</span> : <span foreground='yellow'>13gp</"
+"span>\n"
+"Ép:32  Lépés:8\n"
+"5 - 3 közelharc (vágás)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:541
@@ -283,6 +335,10 @@ msgid ""
 "Hitpoints:40  Moves:8\n"
 "9 - 1 melee (pierce) (poison)  4 - 4 melee (impact)"
 msgstr ""
+"<span foreground='red'>$name_scorpy|</span> : <span "
+"foreground='yellow'>17gp</span>\n"
+"Ép:40  Lépés:8\n"
+"9 - 1 közelharc (szúrás) (méreg)  4 - 4 közelharc (ütés)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:560
@@ -293,6 +349,10 @@ msgid ""
 "Hitpoints:68  Moves:5\n"
 "10 - 3 melee (blade)"
 msgstr ""
+"<span foreground='red'>$name_ogre|</span> : <span foreground='yellow'>33gp</"
+"span>\n"
+"Ép:68  Lépés:5\n"
+"10 - 3 közelharc (vágás)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:576
@@ -303,6 +363,10 @@ msgid ""
 "Hitpoints:50  Moves:5  regenerates\n"
 "7 - 2 melee (impact)  7 - 3 ranged (fire) (magical)"
 msgstr ""
+"<span foreground='red'>$name_shaman|</span> : <span "
+"foreground='yellow'>32gp</span>\n"
+"Ép:50  Lépés:5  regenerálódás\n"
+"7 - 2 közelharc (ütés)  7 - 3 távolsági harc (tűz) (mágikus)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:595
@@ -313,6 +377,10 @@ msgid ""
 "Hitpoints:45  Moves:9  submerge\n"
 "9 - 2 melee (pierce) (charge)"
 msgstr ""
+"<span foreground='red'>$name_choco|</span> : <span foreground='yellow'>29gp</"
+"span>\n"
+"Ép:45  Lépés:9  alámerülés\n"
+"9 - 2 közelharc (szúrás) (roham)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:611
@@ -323,6 +391,10 @@ msgid ""
 "Hitpoints:54  Moves:6\n"
 "18 - 2 melee (blade) (poison)  8 - 3 ranged (impact) (slows)"
 msgstr ""
+"<span foreground='red'>$name_spidey|</span> : <span "
+"foreground='yellow'>60gp</span>\n"
+"Ép:54  Lépés:6\n"
+"18 - 2 közelharc (vágás) (méreg)  8 - 3 távolsági harc (ütés) (lassítás)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:630
@@ -333,18 +405,22 @@ msgid ""
 "Hitpoints:142  Moves:5\n"
 "32 - 2 melee (impact)"
 msgstr ""
+"<span foreground='red'>$name_yeti|</span> : <span foreground='yellow'>100gp</"
+"span>\n"
+"Ép:142  Lépés:5\n"
+"32 - 2 közelharc (ütés)"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:655
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:682
 msgid "Where should the monster appear?"
-msgstr ""
+msgstr "Hol jelenjen meg a szörny?"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:670
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:697
 msgid "Spawning Point"
-msgstr ""
+msgstr "Megjelenési hely"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:675
@@ -353,12 +429,14 @@ msgid ""
 "<span foreground='magenta'>Top left trapdoor</span>\n"
 "Price will change to $left_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Északnyugati csapóajtó</span>\n"
+"Az ár $left_trapdoors|%-a lesz a szörny árának."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:682
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:709
 msgid "TOP LEFT"
-msgstr ""
+msgstr "ÉSZAKNYUGAT"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:694
@@ -367,12 +445,14 @@ msgid ""
 "<span foreground='magenta'>Bottom left trapdoor</span>\n"
 "Price will change to $left_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Délnyugati csapóajtó</span>\n"
+"Az ár $left_trapdoors|%-a lesz a szörny árának."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:701
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:728
 msgid "BOTTOM LEFT"
-msgstr ""
+msgstr "DÉLNYUGAT"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:713
@@ -381,6 +461,8 @@ msgid ""
 "<span foreground='magenta'>Top central trapdoor</span>\n"
 "Price will change to $central_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Északi csapóajtó</span>\n"
+"Az ár $central_trapdoors|%-a lesz a szörny árának."
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:732
@@ -389,12 +471,14 @@ msgid ""
 "<span foreground='magenta'>Bottom central trapdoor</span>\n"
 "Price will change to $central_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Déli csapóajtó</span>\n"
+"Az ár $central_trapdoors|%-a lesz a szörny árának."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:739
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:766
 msgid "BOTTOM CENTRAL"
-msgstr ""
+msgstr "DÉL"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:751
@@ -403,12 +487,14 @@ msgid ""
 "<span foreground='magenta'>Top right trapdoor</span>\n"
 "Price will change to $right_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Északkeleti csapóajtó</span>\n"
+"Az ár $right_trapdoors|%-a lesz a szörny árának."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:758
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:785
 msgid "TOP RIGHT"
-msgstr ""
+msgstr "ÉSZAKKELET"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:770
@@ -417,24 +503,26 @@ msgid ""
 "<span foreground='magenta'>Bottom right trapdoor</span>\n"
 "Price will change to $right_trapdoors|% of the monster cost."
 msgstr ""
+"<span foreground='magenta'>Délkeleti csapóajtó</span>\n"
+"Az ár $right_trapdoors|%-a lesz a szörny árának."
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:777
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:804
 msgid "BOTTOM RIGHT"
-msgstr ""
+msgstr "DÉLKELET"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:799
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:826
 msgid "Who will control this monster?"
-msgstr ""
+msgstr "Ki irányítsa ezt a szörnyet?"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:815
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:842
 msgid "Ownership"
-msgstr ""
+msgstr "Tulajdonos"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:820
@@ -444,12 +532,14 @@ msgid ""
 "<span foreground='cyan'>It may attack anyone at will though, even you!!</"
 "span>"
 msgstr ""
+"<span foreground='yellow'>A fele árat fizetem!</span>\n"
+"<span foreground='cyan'>Bár így még engem is megtámadhat!!</span>"
 
 #. [set_variable]
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:825
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:852
 msgid "AI! It may attack anyone, even you!!"
-msgstr ""
+msgstr "A gép! Bár így még engem is megtámadhat!!"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:838
@@ -458,40 +548,42 @@ msgid ""
 "<span foreground='yellow'>Full price!</span>\n"
 "<span foreground='cyan'>Full control of the monster you buy.</span>"
 msgstr ""
+"<span foreground='yellow'>Teljes árat kifizetem!</span>\n"
+"<span foreground='cyan'>Én irányítom a szörnyet!</span>"
 
 #. [option]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:863
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:890
 msgid "Buy this monster!"
-msgstr ""
+msgstr "Megveszem ezt a szörnyet!"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:886
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:913
 msgid "Marisha"
-msgstr ""
+msgstr "Marisha"
 
 #. [message]: speaker=narrator
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_Creepfest.cfg:888
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:915
 msgid ""
 "<span foreground='orange'>You don't have the required money! Begone!!</span>"
-msgstr ""
+msgstr "<span foreground='orange'>Nincs elég pénzed! Távozz!!</span>"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:5
 msgid "2p - DW No Creeps"
-msgstr ""
+msgstr "2j - BH Szörnyek nélkül"
 
 #. [multiplayer]: id=2p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/2p_Dungeon_Wars_No_Creeps.cfg:7
 msgid "Medium 1v1 map set in a decaying land."
-msgstr ""
+msgstr "Közepes 1v1 pálya  egy pusztuló földön."
 
 #. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:5
 msgid "4p - DW Creepfest"
-msgstr ""
+msgstr "4j - BH Szörnyek fesztiválja"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_Creepfest
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:7
@@ -499,23 +591,25 @@ msgid ""
 "Medium 2v2 map set in a decaying land. Recruit optional creeps to aid your "
 "cause!"
 msgstr ""
+"Közepes 2v2 pálya  egy pusztuló földön. Toborozz szörnyeket, hogy segítsenek "
+"a csatában!"
 
 #. [objective]: condition=win
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:132
 msgid "Defeat enemy players' leaders"
-msgstr ""
+msgstr "Legyőzöd az (összes) ellenfél vezérét"
 
 #. [objective]: condition=lose
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_Creepfest.cfg:136
 msgid "Death of your leaders"
-msgstr ""
+msgstr "Vezéred elesik"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:5
 msgid "4p - DW No Creeps"
-msgstr ""
+msgstr "4j - BH Szörnyek nélkül"
 
 #. [multiplayer]: id=4p_Dungeon_Wars_No_Creeps
 #: Dungeon_Wars_Creepfest/scenarios/4p_Dungeon_Wars_No_Creeps.cfg:7
 msgid "Medium 2v2 map set in a decaying land."
-msgstr ""
+msgstr "Közepes 2v2 pálya  egy pusztuló földön."
